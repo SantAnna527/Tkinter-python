@@ -1,0 +1,16 @@
+[
+    {
+        "descricao": "Salário",
+        "categoria": "Trabalho",
+        "data": "22/09/2026",
+        "tipo": "Receita",
+        "valor": 2500.00
+    },
+    {
+        "descricao": "Mercado",
+        "categoria": "Alimentação",
+        "data": "23/09/2026",
+        "tipo": "Despesa",
+        "valor": 180.50
+    }
+]
